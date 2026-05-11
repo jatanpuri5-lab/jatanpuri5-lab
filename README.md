@@ -35,11 +35,14 @@
 
 ## About Me
 
-I'm a **Full Stack Developer** and **AI Automation Engineer** based in Karachi, Pakistan 🇵🇰. Currently pursuing my BSSE at SZABIST, I specialize in building scalable web applications, robust backend systems, and intelligent automation solutions.
-
-My expertise spans modern web technologies, database design, and AI-powered tools that solve real-world problems. I believe in clean code, thoughtful architecture, and leveraging AI to amplify productivity.
-
-**Currently building:** AI-powered SaaS products and automation workflows.
+🚀 Full Stack Developer & AI Automation Engineer
+⚙️ Specialized in scalable backend systems & modern web apps
+🤖 Building AI-powered automation tools using Python & Gemini API
+🌐 Experienced with React, Next.js, Node.js, PostgreSQL & Flutter
+🕷️ Strong background in web scraping & workflow automation
+📍 Based in Karachi, Pakistan
+🎓 BSSE Student at SZABIST Karachi
+💼 Open to remote roles, freelance projects & collaborations
 
 ---
 
@@ -70,25 +73,34 @@ My expertise spans modern web technologies, database design, and AI-powered tool
 
 <div align="center">
 
-### 🤖 AI Invoice Extractor
-**AI-powered document processing system** that extracts vendor names, invoice numbers, dates, line items, and totals from PDFs and images using OCR + Google Gemini API.
+🚀 Featured Projects
+🤖 AI Invoice Extractor
+AI-powered OCR invoice processing system
+Extracts vendor names, totals, dates & line items
+Built using Python, Streamlit & Gemini API
 
-*Tech: Python, Streamlit, Gemini API, OCR*
+Tech: Python OCR Gemini API Streamlit
 
-### 🏥 Hospital Management System
-**Enterprise-grade hospital management** with role-based access control for doctors, nurses, administrators, and patients. Features complex relational schema and full audit trails.
+🏥 Hospital Management System
+Full-stack role-based hospital management platform
+Secure authentication & patient management workflows
+Optimized PostgreSQL relational architecture
 
-*Tech: Node.js, Express, PostgreSQL, React*
+Tech: React Node.js Express PostgreSQL
 
-### 📱 Expense Tracker App
-**Cross-platform personal finance app** built with Flutter. Includes real-time budget tracking, category analytics, spending visualizations, and offline-first architecture.
+📱 Expense Tracker App
+Modern cross-platform personal finance application
+Real-time expense tracking & category analytics
+Smooth Flutter-based mobile experience
 
-*Tech: Flutter, Dart, Firebase*
+Tech: Flutter Dart Firebase
 
-### 🕷️ Web Scraping Automation Suite
-**Robust automated data extraction framework** that handles JavaScript-heavy SPAs, dynamic content, and anti-bot patterns. Delivers structured business data at scale.
+🕷️ Web Scraping Automation Suite
+Automated business data extraction system
+Handles dynamic JavaScript-heavy websites
+Built with scalable scraping workflows
 
-*Tech: Python, Playwright, Selenium*
+Tech: Python Playwright Selenium
 
 </div>
 
